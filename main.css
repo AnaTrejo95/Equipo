@@ -21,12 +21,23 @@ body{
 }
 .cuadro3{
 	width:200px;
-	height:150px;
+	height:130px;
 	border-radius:15px;
 	background-color:#BA9DBF;
 	padding-left:  15px;
 	position: absolute;
 	right: 600px;
 	top: 380px;
+
+}
+.cuadro4{
+	width:715px;
+	height:150px;
+	border-radius:15px;
+	background-color:#BA9DBF;
+	padding-left:  15px;
+	position: absolute;
+	right: 610px;
+	top: 520px;
 
 }
