@@ -8,3 +8,14 @@ body{
 	background-color:#BA9DBF;
 	padding-left: 20px;
 }
+.cuadro1{
+	width:200px;
+	height:150px;
+	border-radius:15px;
+	background-color:#BA9DBF;
+	padding-left:  15px;
+	position: absolute;
+	right: 600px;
+	top: 215px;
+
+}
